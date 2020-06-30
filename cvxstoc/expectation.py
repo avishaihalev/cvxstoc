@@ -1,7 +1,7 @@
 import copy, Queue
 import numpy
 
-import cvxpy.expressions.types
+import cvxpy.expressions.cvxtypes
 from cvxpy.transforms.partial_optimize import PartialProblem
 
 from random_variable import RandomVariable
